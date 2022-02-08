@@ -1,6 +1,6 @@
 # This is a learning project, All credits go to Enzo Ustariz whose course is available on Udemy : "coding 10 projects with React".
 
-This project is deployed at : slider-enzo-udemy-cursus.vercel.app
+This project is deployed at : [Slider](slider-enzo-udemy-cursus.vercel.app)
 
 ## Getting Started with Create React App
 
